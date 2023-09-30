@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 pwd
+=======
+current_dir=$(pwd)
+>>>>>>> fedae8d1d071f8e0d796484cc39ac0e5001daeb3
